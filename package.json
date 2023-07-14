@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A command-line app for searching the RAE for definitions.",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "test": "jest --coverage"
   },
